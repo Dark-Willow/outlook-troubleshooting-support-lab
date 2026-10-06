@@ -22,7 +22,7 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 | Lab | Topic | Status |
 |---|---|---|
 | Lab 01 | Outlook Support Lab Setup | Completed |
-| Lab 02 | User Mailbox Settings Review | Not Started |
+| Lab 02 | User Mailbox Settings Review | Completed |
 | Lab 03 | Shared Mailbox Access Troubleshooting | Not Started |
 | Lab 04 | Email Forwarding and Automatic Replies | Not Started |
 | Lab 05 | Outlook Common Issues Knowledge Base | Not Started |
@@ -31,6 +31,7 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 ## Lab Notes
 
 - [Lab 01 — Outlook Support Lab Setup](notes/lab-01-outlook-support-lab-setup.md)
+- [Lab 02 — User Mailbox Settings Review](notes/lab-02-user-mailbox-settings-review.md)
 
 ## Sample Tickets
 
@@ -47,6 +48,16 @@ Knowledge base notes will be added during the project.
 ![User Mail Settings Overview](screenshots/01-user-mail-settings-overview.png)
 
 ![Outlook Web Access](screenshots/02-outlook-web-access.png)
+
+### Lab 02 — User Mailbox Settings Review
+
+![Mailbox Permissions Review](screenshots/03-mailbox-permissions-review.png)
+
+![Email Apps Review](screenshots/04-email-apps-review.png)
+
+![Email Forwarding Review](screenshots/05-email-forwarding-review.png)
+
+![Automatic Replies Review](screenshots/06-automatic-replies-review.png)
 
 ## Workflow Documentation
 
