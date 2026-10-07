@@ -23,7 +23,7 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 |---|---|---|
 | Lab 01 | Outlook Support Lab Setup | Completed |
 | Lab 02 | User Mailbox Settings Review | Completed |
-| Lab 03 | Shared Mailbox Access Troubleshooting | Not Started |
+| Lab 03 | Shared Mailbox Access Troubleshooting | Completed |
 | Lab 04 | Email Forwarding and Automatic Replies | Not Started |
 | Lab 05 | Outlook Common Issues Knowledge Base | Not Started |
 | Lab 06 | Outlook Support Tickets and Final Workflow | Not Started |
@@ -32,6 +32,7 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 
 - [Lab 01 — Outlook Support Lab Setup](notes/lab-01-outlook-support-lab-setup.md)
 - [Lab 02 — User Mailbox Settings Review](notes/lab-02-user-mailbox-settings-review.md)
+- [Lab 03 — Shared Mailbox Access Troubleshooting](notes/lab-03-shared-mailbox-access-troubleshooting.md)
 
 ## Sample Tickets
 
@@ -59,6 +60,19 @@ Knowledge base notes will be added during the project.
 
 ![Automatic Replies Review](screenshots/06-automatic-replies-review.png)
 
+### Lab 03 — Shared Mailbox Access Troubleshooting
+
+![Shared Mailbox List Review](screenshots/07-shared-mailbox-list-review.png)
+
+![Shared Mailbox Details Review](screenshots/08-shared-mailbox-details-review.png)
+
+![Shared Mailbox Members Review](screenshots/09-shared-mailbox-members-review.png)
+
+![Open Another Mailbox Option](screenshots/10-open-another-mailbox-option.png)
+
+![Select Shared Mailbox in Outlook](screenshots/11-select-shared-mailbox-in-outlook.png)
+
+![Shared Mailbox Opened](screenshots/12-shared-mailbox-opened.png)
 ## Workflow Documentation
 
 Workflow documentation will be added during the project.
