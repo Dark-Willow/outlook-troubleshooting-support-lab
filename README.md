@@ -24,7 +24,7 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 | Lab 01 | Outlook Support Lab Setup | Completed |
 | Lab 02 | User Mailbox Settings Review | Completed |
 | Lab 03 | Shared Mailbox Access Troubleshooting | Completed |
-| Lab 04 | Email Forwarding and Automatic Replies | Not Started |
+| Lab 04 | Email Forwarding and Automatic Replies | Completed |
 | Lab 05 | Outlook Common Issues Knowledge Base | Not Started |
 | Lab 06 | Outlook Support Tickets and Final Workflow | Not Started |
 
@@ -33,7 +33,7 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 - [Lab 01 — Outlook Support Lab Setup](notes/lab-01-outlook-support-lab-setup.md)
 - [Lab 02 — User Mailbox Settings Review](notes/lab-02-user-mailbox-settings-review.md)
 - [Lab 03 — Shared Mailbox Access Troubleshooting](notes/lab-03-shared-mailbox-access-troubleshooting.md)
-
+- [Lab 04 — Email Forwarding and Automatic Replies](notes/lab-04-email-forwarding-and-automatic-replies.md)
 ## Sample Tickets
 
 Sample Outlook support tickets will be added during the project.
@@ -73,6 +73,17 @@ Knowledge base notes will be added during the project.
 ![Select Shared Mailbox in Outlook](screenshots/11-select-shared-mailbox-in-outlook.png)
 
 ![Shared Mailbox Opened](screenshots/12-shared-mailbox-opened.png)
+
+### Lab 04 — Email Forwarding and Automatic Replies
+
+![Email Forwarding Settings](screenshots/13-email-forwarding-settings.png)
+
+![Email Forwarding Disabled](screenshots/14-email-forwarding-disabled.png)
+
+![Automatic Replies Configured](screenshots/15-automatic-replies-configured.png)
+
+![Automatic Replies Disabled](screenshots/16-automatic-replies-disabled.png)
+
 ## Workflow Documentation
 
 Workflow documentation will be added during the project.
