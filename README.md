@@ -26,7 +26,7 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 | Lab 03 | Shared Mailbox Access Troubleshooting | Completed |
 | Lab 04 | Email Forwarding and Automatic Replies | Completed |
 | Lab 05 | Outlook Common Issues Knowledge Base | Completed |
-| Lab 06 | Outlook Support Tickets and Final Workflow | Not Started |
+| Lab 06 | Outlook Support Tickets and Final Workflow | Completed |
 
 ## Lab Notes
 
@@ -35,10 +35,15 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 - [Lab 03 — Shared Mailbox Access Troubleshooting](notes/lab-03-shared-mailbox-access-troubleshooting.md)
 - [Lab 04 — Email Forwarding and Automatic Replies](notes/lab-04-email-forwarding-and-automatic-replies.md)
 - [Lab 05 — Outlook Common Issues Knowledge Base](notes/lab-05-outlook-common-issues-knowledge-base.md)
+- [Lab 06 — Outlook Support Tickets and Final Workflow](notes/lab-06-outlook-support-tickets-and-final-workflow.md)
   
 ## Sample Tickets
 
-Sample Outlook support tickets will be added during the project.
+- [Ticket 01 — Outlook Sign-in Issue](sample-tickets/ticket-01-outlook-sign-in-issue.md)
+- [Ticket 02 — Shared Mailbox Access](sample-tickets/ticket-02-shared-mailbox-access.md)
+- [Ticket 03 — Email Forwarding Review](sample-tickets/ticket-03-email-forwarding-review.md)
+- [Ticket 04 — Automatic Replies](sample-tickets/ticket-04-automatic-replies.md)
+- [Ticket 05 — Mailbox Storage or Sync Issue](sample-tickets/ticket-05-mailbox-storage-sync-issue.md)
 
 ## Knowledge Base
 
@@ -92,7 +97,7 @@ Sample Outlook support tickets will be added during the project.
 
 ## Workflow Documentation
 
-Workflow documentation will be added during the project.
+- [Outlook Support Troubleshooting Workflow](workflow/outlook-support-troubleshooting-workflow.md)
 
 ## Skills Practised
 
@@ -109,4 +114,8 @@ Workflow documentation will be added during the project.
 
 ## What I Learned
 
-This section will be updated as the lab progresses.
+In this project, I learned how to investigate and document common Outlook and Microsoft 365 mailbox support issues.
+
+I practised reviewing mailbox settings, shared mailbox access, email forwarding, automatic replies, email apps, mailbox permissions, Outlook on the web access, and mailbox-related support scenarios.
+
+I also created knowledge base articles, sample support tickets, and a troubleshooting workflow to show how Outlook issues can be handled in a Service Desk environment.
