@@ -25,7 +25,7 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 | Lab 02 | User Mailbox Settings Review | Completed |
 | Lab 03 | Shared Mailbox Access Troubleshooting | Completed |
 | Lab 04 | Email Forwarding and Automatic Replies | Completed |
-| Lab 05 | Outlook Common Issues Knowledge Base | Not Started |
+| Lab 05 | Outlook Common Issues Knowledge Base | Completed |
 | Lab 06 | Outlook Support Tickets and Final Workflow | Not Started |
 
 ## Lab Notes
@@ -34,14 +34,20 @@ This lab is designed to show practical understanding of how Outlook and Microsof
 - [Lab 02 — User Mailbox Settings Review](notes/lab-02-user-mailbox-settings-review.md)
 - [Lab 03 — Shared Mailbox Access Troubleshooting](notes/lab-03-shared-mailbox-access-troubleshooting.md)
 - [Lab 04 — Email Forwarding and Automatic Replies](notes/lab-04-email-forwarding-and-automatic-replies.md)
+- [Lab 05 — Outlook Common Issues Knowledge Base](notes/lab-05-outlook-common-issues-knowledge-base.md)
+  
 ## Sample Tickets
 
 Sample Outlook support tickets will be added during the project.
 
 ## Knowledge Base
 
-Knowledge base notes will be added during the project.
-
+- [KB 01 — Outlook Sign-in Issue](knowledge-base/kb-01-outlook-sign-in-issue.md)
+- [KB 02 — Shared Mailbox Not Showing](knowledge-base/kb-02-shared-mailbox-not-showing.md)
+- [KB 03 — Email Forwarding Issue](knowledge-base/kb-03-email-forwarding-issue.md)
+- [KB 04 — Automatic Replies Not Working](knowledge-base/kb-04-automatic-replies-not-working.md)
+- [KB 05 — Mailbox Storage or Sync Issue](knowledge-base/kb-05-mailbox-storage-or-sync-issue.md)
+  
 ## Screenshots
 
 ### Lab 01 — Outlook Support Lab Setup
